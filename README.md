@@ -1,4 +1,4 @@
-**LinuxLearningLab**
+**DevOpsLearningGround**
 
 A hands-on repository for learning and practicing Linux concepts.
 
@@ -16,5 +16,6 @@ A hands-on repository for learning and practicing Linux concepts.
 
 Let's learn and grow together!
 
+**DevOpsLearningGround**
 Author
 [Sumit R Malik](https://www.linkedin.com/in/sumit-r-malik/)
