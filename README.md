@@ -15,3 +15,6 @@ A hands-on repository for learning and practicing Linux concepts.
 * **Scripts:** Use the provided scripts as examples for your own automation projects.
 
 Let's learn and grow together!
+
+Author
+[Sumit R Malik](https://www.linkedin.com/in/sumit-r-malik/)
