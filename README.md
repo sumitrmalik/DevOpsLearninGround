@@ -1,4 +1,4 @@
-**DevOpsLearningGround**
+**DevOpsLearninGround**
 
 A hands-on repository for learning and practicing Linux concepts.
 
