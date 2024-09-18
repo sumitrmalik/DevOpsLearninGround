@@ -1,0 +1,13 @@
+#Hosting Apache HTTPD Web Server on Redhat Linux OS
+
+#Use the below command to install Apache web server on Linux OS:
+sudo yum install -y httpd
+
+#Use the below Command to edit the index.html file:
+sudo vi /var/www/html/index.html
+
+#Use the below command to start the Apache web server:
+sudo systemctl start httpd
+
+#Use the below command to stop the Apache web server:
+sudo systemctl stop httpd
